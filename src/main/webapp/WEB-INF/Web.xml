@@ -12,7 +12,7 @@
 
     <servlet-mapping>
         <servlet-name>HelloServlet</servlet-name>
-        <url-pattern>/hello</url-pattern>
+        <url-pattern>http://34.47.211.26:8080/wes/</url-pattern>
     </servlet-mapping>
 
 </web-app>
